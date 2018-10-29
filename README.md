@@ -1,1 +1,1 @@
-# LeitorCodBarras
+# LeitorCodigoBarras
